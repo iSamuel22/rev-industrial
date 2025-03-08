@@ -44,7 +44,7 @@ const linhaTempo = () => {
       description: 'George Stephenson constrói a primeira locomotiva a vapor bem-sucedida, revolucionando o transporte ferroviário.',
     },
     {
-      year: '1870',
+      year: '1850',
       title: 'Segunda Revolução Industrial',
       description: 'A Segunda Revolução Industrial tem início, com avanços na eletricidade, química e produção em massa.',
     },
